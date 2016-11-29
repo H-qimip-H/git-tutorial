@@ -1,6 +1,7 @@
 <<<<<<< HEAD
-#Git 教程A
+#Git 教程
 
+-feature-A
+-fix-B
+-faeture-C
 
-fix -B
->>>>>>> fix-B
